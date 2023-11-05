@@ -1,6 +1,8 @@
 # Adm_hw2_group6
 
-This is the repository for submit the **HOMEWORK 2**. The submission is done by **GROUP 6**. In the following lines we briefly explain how we organized our repository.
+This is the repository for submit the **HOMEWORK 2**. 
+
+The submission is done by **GROUP 6**. In the following lines we briefly explain how we organized our repository.
 
 The main file is **HW2_ADM.ipynb**: it is a jupyter notebook that cointains all the answers to the questions, for each questions we provided our script and we did comments for the results and we added comment even on our script so that we were clear and the readers can understand everything. We provided answers for each section of the homework, so there is the RQs, CLQ, AWSQ, AQ questions in this order. 
 In particular focusing on the CLQ and AWSQ part in the notebook we attached some images to explain better our result (in particular we attached the image of the output of the CL-script so the bash script and the output of the Python script that we run on the EC2 istance for the AWS part). 
